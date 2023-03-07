@@ -1,1 +1,1 @@
-My first day
+My first directory
